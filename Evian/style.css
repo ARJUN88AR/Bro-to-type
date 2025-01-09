@@ -1,0 +1,286 @@
+body{
+    font-family:"Nimbus Sans", sans-serif;
+    background: linear-gradient(to top, #FFE1E7, #fff);
+ }
+.menu{
+    list-style:none;
+    display:flex;
+    justify-content:center;
+    gap:50px;
+    padding-right:30px;
+    padding-top:30px;
+    padding-bottom:30px;
+    color:dimgrey;
+    font-family: "Inter Semi Bold", sans-serif
+}
+.logo1{
+    position:absolute;
+    height:60px;
+    width:60px;
+    left:1022px;
+    top:20px;
+}
+.color1{
+    position:relative;
+     background-color:#FFE1E7;
+    height:990px;
+    width:92.2%;
+    margin-left: 80px;
+}
+.image1{
+    display:flex;
+    justify-content:center;
+    height:1200px;
+    width:780px;
+    position:absolute;
+    transform: translate(105%, -6%);
+}
+.heading1 {
+    position:absolute;
+    top:130px;
+    left:215px;
+     font-size:100px;
+    color:dimgrey;
+}
+.paragraph1{
+    position:absolute;
+    font-family:"Nimbus Sans", sans-serif;
+    font-size:32px;
+    top:600px;
+    left:215px;
+    color:dimgrey;
+}
+.color5{
+    position:relative;
+    background-color:white;
+    height:610px;
+    width:50%;
+    top:100px;
+    left:75px;
+ }
+.photo5{
+    position:absolute;
+    top:20.2%;
+    left:1105px;
+    transform: translate(-20%, -20%);
+}
+.heading5{
+    position:absolute;
+    top:1270px;
+    left:300px;
+    font-size:70px;
+    color:dimgrey;
+    transform: translate(-20%, -20%);
+}
+.paragraph5{
+    position:absolute;
+    top:1490px;
+    left:330px;
+    font-size:28px;
+    color:dimgrey;
+    transform: translate(-20%, -20%);
+}
+.button4{
+    position:absolute;
+    top:1620px;
+    left:210px;
+    height:60px;
+    width:325px;
+    background-color:white;
+    border:1px solid black;
+}
+.holder1{
+    font-size: 20px;
+    color:dimgrey;
+    padding-bottom:50px;
+
+}
+.color71{
+    position:relative;
+    background-color:white;
+    height:950px;
+    width:860px;
+    left: 75px;
+    top:500px;
+}
+.photo7-1{
+    position:absolute;
+    height:500px;
+    width:868px;
+    transform: translate(-1%, -35%);
+}
+.heading7-1{
+    position:absolute;
+    top:2610px;
+    left:230px;
+    font-size:60px;
+    color:dimgrey;
+}
+.paragraph7-1{
+    position:absolute;
+    top:2745px;
+    left:230px;
+    font-size:23px;
+    color:dimgrey;
+}
+.button7-1{
+    position:absolute;
+    top:2945px;
+    left:230px;
+    width:250px;
+    height:65px;
+    font-size:28px;
+    color:dimgrey;
+    border:1px solid black;
+    background-color:white;
+}
+
+.color72{
+    position:relative;
+    background-color:white;
+    height:1130px;
+    width:860px;
+    left: 1065px;
+    top:-628px;
+}
+.photo7-2{
+    position:absolute;
+    height:500px;
+    width:868px;
+    transform: translate(0%, 0%);
+}
+.heading7-2{
+    position:absolute;
+    top:2570px;
+    left:1240px;
+    font-size:60px;
+    color:dimgrey;
+}
+.paragraph7-2{
+    position:absolute;
+    top:2700px;
+    left:1240px;
+    font-size:23px;
+    color:dimgrey;
+}
+.button7-2{
+     position:absolute;
+     top:2990px;
+     left:1240px;
+     width:260px;
+     height:70px;
+     font-size:28px;
+     color:dimgrey;
+     border:1px solid black;
+    background-color: white;
+ }
+
+ .logo2{
+    position:absolute;
+     height:85px;
+      width:85px;
+     top:327%;
+     left:72px;
+ }
+.footer-1{
+    display:flex;
+    justify-content:center;
+    font-size:15px;
+   }
+.table1{
+    position:absolute;
+    top:325%;
+    left:348px;
+    color:dimgrey;
+}
+.list-1{
+    list-style:none;
+    position:relative;
+    left:-38px;
+}
+.table2{
+    position:absolute;
+    top:325%;
+    left:620px;
+    color:dimgrey;
+
+}
+.table2  li{
+    list-style:none;
+    position:relative;
+    left:-38px;
+    padding-top:5px;
+}
+.table3{
+    position:absolute;
+    top:325%;
+    left:880px;
+    color:dimgrey;
+}
+.table3  li {
+    list-style: none;
+    position: relative;
+    left: -40px;
+    padding-top:5px;
+}
+.table4 {
+    position: absolute;
+    top: 325%;
+    left: 1170px;
+    color: dimgrey;
+}
+.table4  li {
+    list-style: none;
+    position: relative;
+    left: -40px;
+    padding-top:5px;
+}
+.table5 {
+     position: absolute;
+     top: 325%;
+     left: 1440px;
+     color: dimgrey;
+ }
+.table6 {
+    position: absolute;
+    top: 325%;
+    left: 1740px;
+    color: dimgrey;
+}
+.table6  li{
+    list-style:none;
+    position:relative;
+    left:-37px;
+    padding-top:5px;
+}
+.background{
+    position:absolute;
+    background-color:white;
+    height:600px;
+    width:100%;
+     top:3190px;
+    overflow: auto;
+}
+
+.svg1{
+    position:absolute;
+    height:75px;
+    width:110px;
+    top:329%;
+    left:28px;
+}
+.inter{
+    position:absolute;
+    top:355%;
+    left:330px;
+    color:dimgrey;
+    font: bold 17px "Nimbus Sans", sans-serif;
+}
+.left-svg{
+    position:absolute;
+    top:357%;
+    left:1735px;
+}
+.left-svg .a{
+    padding:50px;
+    }
